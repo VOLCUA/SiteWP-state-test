@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 26.01.2024 23:29
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.8
+WORDPRESS:	6.4.2
+PHP INFO:	8.0.22 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+MEMORY STACK: 48MB
+[CTRL DUP ARCIVE] PACKAGE AS NEW ID 1 SAVED | STATUS:0
+[DUP ARCHIVE] BUILDING DATABASE
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20240126_wptest_d96f0de2d406012e1570_20240126232937_database.sql
+SQL FILE SIZE: 940.36KB (962925)
+SQL FILE TIME: 2024-01-26 23:29:52
+SQL RUNTIME: 2.62 sec.
+[DUP ARCHIVE] VALIDATING DATABASE
+[DUP ARCHIVE] DONE DATABASE
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  D:/OSPanel/domains/wptest.com
+ARCHIVE FILE: 20240126_wptest_d96f0de2d406012e1570_20240126232937_archive.daf
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	106.36MB
+STATS:	Dirs 1,001 | Files 5,927 | Total 6,928
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+building installer
+[DUP ARCHIVE] DONE ARCHIVE
+COMPRESSED SIZE: 48.4MB
+ARCHIVE RUNTIME: 128.82 sec.
+MEMORY STACK: 50MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] HAS COMPLETED CLOSING
+[DUP ARCHIVE] DUP ARCHIVE INTEGRITY CHECK
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 940.36KB
+INSTALLER FILE: 94.81KB
+ARCHIVE FILE: 48.4MB 
+EXPECTED FILE/DIRECTORY COUNT: 7,667
+ACTUAL FILE/DIRECTORY COUNT: 7,668
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 128.84 sec.
+PEAK PHP MEMORY USED: 50MB
+DONE PROCESSING => 20240126_wptest 2024-01-26 23:31:58
+

@@ -1,0 +1,91 @@
+
+.estate-item
+{
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.estate-item-title {
+    font-size: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: -30px;
+    width: 100%;
+    background: black;
+    z-index: 6;
+    position: relative;
+    padding: 4px;
+    color: white;
+}
+
+.estate-item-param
+{
+    color: white;
+    font-size: 10px;
+}
+
+
+/* TODO: add icons */
+.estate-item-param-house_name
+{
+    /*padding: 6px;*/
+    /*border-radius: 13px;*/
+    /*max-width: 100px !important;*/
+    /*margin: auto;*/
+    /*background: gray;*/
+    color:black;
+    margin-bottom: 10px;
+
+}
+
+.estate-item-param-location_coordinates
+{
+    /*padding: 6px;*/
+    /*border-radius: 13px;*/
+    /*max-width: 100px !important;*/
+    /*margin: auto;*/
+    /*background: gray;*/
+    color:black;
+    margin-bottom: 10px;
+
+}
+
+.estate-item-param-number_of_floors
+{
+    /*padding: 6px;*/
+    /*border-radius: 13px;*/
+    /*max-width: 100px !important;*/
+    /*margin: auto;*/
+    /*background: gray;*/
+    color:black;
+    margin-bottom: 10px;
+
+}
+
+.estate-item-param-building_type
+{
+    /*padding: 6px;*/
+    /*border-radius: 13px;*/
+    /*max-width: 100px !important;*/
+    /*margin: auto;*/
+    /*background: gray;*/
+    color:black;
+    margin-bottom: 10px;
+
+}
+
+.estate-single-title
+{
+    font-size: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: -30px;
+    width: 100%;
+    background: black;
+    z-index: 6;
+    position: relative;
+    padding: 4px;
+    color: white;
+}
